@@ -6,16 +6,14 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
+        
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://docs.google.com/spreadsheets/d/17YI2cNNtx5ZCvnm0ec-DK72i8KiKIekuh2Jl9pgJC20/edit#gid=0"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Bitcoin Price Historical Data
         </a>
       </header>
     </div>
